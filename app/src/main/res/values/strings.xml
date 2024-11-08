@@ -1,0 +1,6 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="RingApp">RingApp</string>
+    <string name="action_call" translatable="false">appeler</string>
+    <string name="action_send_message" translatable="false">envoyer un message</string>
+</resources>

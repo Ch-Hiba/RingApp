@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="RingApp">RingApp</string>
+
+        <string name="action_call">Call</string>
+        <string name="action_send_message">Send a message</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_call" android:title="appeler"/>
+    <item android:id="@+id/action_send_message" android:title="envoyer un message" />
+
+</menu>
